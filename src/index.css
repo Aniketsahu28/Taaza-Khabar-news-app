@@ -11,3 +11,7 @@
 .link:focus{
     color: rgb(117, 113, 106);
 }
+  
+.scroll {
+    position: fixed;
+  }
